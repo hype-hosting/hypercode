@@ -42,13 +42,11 @@ HYPERCODE is actively maintained. Current and past versions are available in the
 
 ## The Full Experience
 
-HYPERCODE is one piece of a larger ecosystem. If you want to experience what these prompts can really do when paired with handcrafted characters, deep worldbuilding, and a curated community:
+HYPERCODE is one piece of a larger ecosystem. If you want to experience what these prompts can really do when paired with handcrafted characters, deep worldbuilding, and a curated community check out below:
 
-**Timeless Tavern** is an interactive fiction community hosted by me, Hyperion, and deployed through SillyTavern. Multi-user, multi-world, and running on a prompt architecture that goes well beyond what's published here. Access is through the [**Discord**](https://discord.gg/therealhype).
+**Timeless Tavern** is a SillyTavern instance hosted by me, Hyperion. Multi-user, multi-world, and running on a prompt architecture that goes well beyond what's published here. Access is through the [**Discord**](https://discord.gg/therealhype).
 
----
-
-## Connect
+## Other Ways to Connect
 
 - **Discord** — [Hype Discord](https://discord.gg/therealhype) — Community, support, and access to Timeless Tavern.
 - **Ko-fi** — [ko-fi.com/hype](https://ko-fi.com/hype) — Support the work. Memberships and commissions available.
